@@ -3,6 +3,8 @@
 Le français constitue la langue de référence pour la première édition.
 
 - [English — provisional AI-assisted translation](en_PROVISIONAL.md) : **non relue indépendamment**.
+- [Español — traducción provisional](es_PROVISIONAL.md) : **sin revisión independiente**.
+- [Deutsch — vorläufige Übersetzung](de_PROVISIONAL.md) : **noch nicht unabhängig geprüft**.
 
 Chaque traduction doit indiquer :
 - la version française source ;
