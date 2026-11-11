@@ -10,3 +10,7 @@
 - Le dépôt est public. Vérifier les métadonnées, l'identité des commits et les informations personnelles avant tout nouvel ajout.
 
 **Attention :** ne pas publier de release v1.0, ni prétendre que la version candidate est validée, sans confirmation de l'auteur.
+
+## Avancement du 11 novembre 2026
+
+La branche de préparation contient une traduction anglaise, une espagnole et une allemande, toutes explicitement provisoires et non relues indépendamment. Les annexes sur la conscience, la gouvernance des IA et la transition économique sont disponibles pour discussion. Les textes expérimentaux et l'adaptation sans IA sont présents. Aucun de ces ajouts ne constitue une validation de la v1.0.
