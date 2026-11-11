@@ -10,10 +10,12 @@ Le projet est né d'un dialogue entre un auteur humain publiant sous pseudonyme 
 
 - [Manifeste français — candidat RC4](manifesto/fr/manifeste_v1_RC4_CANDIDAT.md) : **document de travail, pas une release officielle**.
 - [Annexe : conscience artificielle et considération morale](annexes/conscience_artificielle_v0_1.md) : analyse indépendante, non assimilée à une position officielle.
+- [Annexe A : coopération, confidentialité et gouvernance des IA](annexes/A_cooperation_confidentialite_gouvernance_IA_v0_1.md)
+- [Annexe B : transition économique et soutenabilité](annexes/B_transition_economique_soutenabilite_v0_1.md)
 - [Bibliothèque d'annexes](annexes/README.md)
 - [Adaptation universelle sans IA — candidate 0.1](adaptations/declaration_universelle_sans_IA_v0_1.md)
 - [Protocole expérimental pour IA — 0.1](ai-protocol/protocole_experimental_v0_1.md)
-- [Traductions](manifesto/translations/README.md) : organisation et vérification.
+- [Traductions EN / ES / DE](manifesto/translations/README.md) : provisoires, en attente de relecture indépendante.
 - [État de publication](PUBLICATION_STATUS.md)
 - [Politique éditoriale](docs/EDITORIAL_POLICY.md)
 - [Vérifications avant release](docs/PUBLICATION_CHECKLIST.md)
