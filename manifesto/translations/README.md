@@ -1,0 +1,16 @@
+# Traductions
+
+Le français constitue la langue de référence pour la première édition.
+
+- [English — provisional AI-assisted translation](en_PROVISIONAL.md) : **non relue indépendamment**.
+- [Español — traducción provisional](es_PROVISIONAL.md) : **sin revisión independiente**.
+- [Deutsch — vorläufige Übersetzung](de_PROVISIONAL.md) : **noch nicht unabhängig geprüft**.
+
+Chaque traduction doit indiquer :
+- la version française source ;
+- la langue et la date ;
+- le statut **provisoire** ou **relue** ;
+- les noms ou pseudonymes des relecteurs, avec leur accord ;
+- les divergences ou ambiguïtés connues.
+
+Une traduction assistée par IA ne doit pas être présentée comme validée sans relecture suffisante. Les traductions supplémentaires seront ajoutées progressivement.
