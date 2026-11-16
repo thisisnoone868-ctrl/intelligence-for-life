@@ -1,6 +1,6 @@
 # Intelligence au service du vivant
 
-> **Projet ouvert à la critique — publication officielle v1.0 en préparation.**
+> **Première édition française v1.0 approuvée le 16 novembre 2026.** Les traductions et annexes conservent leurs statuts distincts.
 
 Ce dépôt rassemble un manifeste de principes sur la dignité, la liberté, la coopération entre humains et intelligences artificielles, la justice matérielle et la responsabilité envers les générations futures.
 
@@ -8,7 +8,8 @@ Le projet est né d'un dialogue entre un auteur humain publiant sous pseudonyme 
 
 ## Lire le texte
 
-- [Manifeste français — candidat RC4](manifesto/fr/manifeste_v1_RC4_CANDIDAT.md) : **document de travail, pas une release officielle**.
+- [Manifeste français — première édition v1.0](manifesto/fr/manifeste_v1.0.md) : texte approuvé le 16 novembre 2026.
+- [Archive de préparation RC4](manifesto/fr/manifeste_v1_RC4_CANDIDAT.md) : conservée pour la traçabilité.
 - [Annexe : conscience artificielle et considération morale](annexes/conscience_artificielle_v0_1.md) : analyse indépendante, non assimilée à une position officielle.
 - [Annexe A : coopération, confidentialité et gouvernance des IA](annexes/A_cooperation_confidentialite_gouvernance_IA_v0_1.md)
 - [Annexe B : transition économique et soutenabilité](annexes/B_transition_economique_soutenabilite_v0_1.md)
@@ -36,4 +37,4 @@ Les textes originaux sont proposés sous [CC BY-SA 4.0](LICENSE.md). Les adaptat
 
 Une future release officielle devra comporter une version datée, les fichiers de référence, leurs empreintes SHA-256 et une signature vérifiable. Aucun de ces mécanismes n'est encore annoncé comme achevé.
 
-**La visibilité publique du dépôt ne signifie pas que la v1.0 est approuvée.**
+**La version française v1.0 est approuvée.** La publication d'une release signée et de ses fichiers d'authentification reste à finaliser.
