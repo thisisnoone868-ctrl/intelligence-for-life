@@ -1,15 +1,15 @@
 # État de préparation de la publication
 
-**Statut : préparation — aucune édition v1.0 officielle publiée.**
+**Statut : texte français v1.0 approuvé le 16 novembre 2026 ; publication de la release cryptographiquement signée encore à réaliser.**
 
-- Texte de référence : français, candidat RC4 en attente de validation explicite.
+- Texte de référence : français, version 1.0 approuvée explicitement le 16 novembre 2026.
 - Licence choisie pour les textes originaux : CC BY-SA 4.0.
 - Les éditions officielles devront être identifiées par une release, des empreintes SHA-256 et une signature vérifiable.
 - Les traductions devront indiquer leur langue, leur source et leur niveau de relecture.
 - Les annexes sont des contributions ouvertes ; leur publication ne signifie pas l'adoption de leurs conclusions.
 - Le dépôt est public. Vérifier les métadonnées, l'identité des commits et les informations personnelles avant tout nouvel ajout.
 
-**Attention :** ne pas publier de release v1.0, ni prétendre que la version candidate est validée, sans confirmation de l'auteur.
+**Confirmation reçue :** l'auteur a approuvé la première édition le 16 novembre 2026. Ne pas prétendre qu'une signature cryptographique ou une release GitHub existe avant leur création effective.
 
 ## Avancement du 11 novembre 2026
 
